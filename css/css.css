@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+
+.product-grid{
+    display: grid;
+    gap: 28px;
+    margin: 28px;
+    grid-template-columns: repeat(4 1fr);
+}
